@@ -1,5 +1,4 @@
-{
-  "clientes": [
+[
     {
       "id": 1,
       "nome": "Tomás Alexandre Erick Galvão",
@@ -51,4 +50,3 @@
       "endereco": "Rua Lucas Vitor Marcelo Lima, 10"
     }
   ]
-}
