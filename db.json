@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nome": "Tomás Alexandre Erick Galvão",
+    "endereco": "Alameda João Botelho, 1"
+  },
+  {
+    "id": 2,
+    "nome": "Rafael Cauê Rodrigues",
+    "endereco": "Rua Rafael Cauê Rodrigues, 2"
+  },
+  {
+    "id": 3,
+    "nome": "Olivia Emily",
+    "endereco": "Rua Olivia Emily, 3"
+  },
+  {
+    "id": 4,
+    "nome": "Julio Carlos Eduardo Rafael Gomes",
+    "endereco": "Rua Julio Carlos Eduardo Rafael Gomes, 4"
+  },
+  {
+    "id": 5,
+    "nome": "Rafael Henry Cláudio Almada",
+    "endereco": "Rua Rafael Henry Cláudio Almada, 5"
+  },
+  {
+    "id": 6,
+    "nome": "Priscila Isabelly Maya",
+    "endereco": "Priscila Isabelly Maya, 6"
+  },
+  {
+    "id": 7,
+    "nome": "Theo Kevin Benedito Almada",
+    "endereco": "Rua Theo Kevin Benedito Almada, 7"
+  },
+  {
+    "id": 8,
+    "nome": "Cristiane Emanuelly Luzia Lima",
+    "endereco": "Rua Cristiane Emanuelly Luzia Lima, 8"
+  },
+  {
+    "id": 9,
+    "nome": "Eduarda Fabiana",
+    "endereco": "Rua Eduarda Fabiana, 9"
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Vitor Marcelo Lima",
+    "endereco": "Rua Lucas Vitor Marcelo Lima, 10"
+  }
+]
